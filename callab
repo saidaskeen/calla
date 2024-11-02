@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+<html> 
+  <head> 
+    <title>Calla</title> 
+  </head> 
+  <body> 
+    <h1>Calla</h1> 
+    <p><script>document.write(new Date().toLocaleString())</script></p>
+    <h2>About Me:</h2>
+    <p>My name is Saida Skeen. I am from Saint George Utah.</p>
+    <h2>Hobbies:</h2>
+    <p>I like to ride bikes. </p>
+    <p>This is the bike that I ride: </p>
+    <p><img src="https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Flibertyclub.sidearmsports.com%2Fimages%2F2024%2F9%2F19%2F2024_Cycling_Hadden_Beykirch.jpg&width=180&height=270&type=webp" style="height: 10em"/></p>
+    <h2>Family:</h2>
+    <p>I love my mom and dad. They are great. My brothers kinda weird though.</p>
+     <p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.com%2FTourism-g187147-Paris_Ile_de_France-Vacations.html&psig=AOvVaw3Yv3ifCd_XVgELjv_suBAp&ust=1730606747072000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDRstrivIkDFQAAAAAdAAAAABAE" style="height: 10em"/></p><em>5</em>.</p>
+<p>I also like Paris by the way it’s pretty cool</p>
+    </body> 
+</html> 
